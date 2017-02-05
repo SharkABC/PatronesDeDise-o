@@ -2,7 +2,7 @@ package cl.patrones.factorymethod;
 
 /*
  * Define la interfaz de creacion de un cierto tipo de objeto,
- * permitiendo que las sibclases decidan que clase concreta necesitan
+ * permitiendo que las subclases decidan que clase concreta necesitan
  * instancias.
  * 
  * Elimina la necesidad de introducir clases especificas en el codigo

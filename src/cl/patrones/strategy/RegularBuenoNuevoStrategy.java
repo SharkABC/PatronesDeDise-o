@@ -1,7 +1,5 @@
 package cl.patrones.strategy;
 
-import java.util.ArrayList;
-
 import cl.patrones.observer.Libro;
 
 public class RegularBuenoNuevoStrategy implements LibroStrategy {

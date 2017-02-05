@@ -3,6 +3,16 @@ package cl.patrones.adapter;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
+/*
+ * Facilita la inclusión de nuevas operaciones.
+ * Agrupa las operaciones relacionadas entre sí.
+ * La inclusión de nuevos ElementsConcretos es una operación 
+ * costosa.
+ * Posibilita visitar distintas jerarquías de objetos u objetos 
+ * no relacionados por un padre común.
+ * 
+ */
+
 public class Main {
 	
 	public static void main(String[] args) {
